@@ -10,7 +10,7 @@
 
 ## about
 
-I’m Khushi, a computer science graduate from the University of Michigan. I like building useful software and figuring out the technical decisions behind it—especially where AI interfaces meet real data, APIs, and user workflows.
+I’m Khushi, a computer science graduate from the University of Michigan. I like building useful software and figuring out the technical decisions behind it → especially where AI interfaces meet real data and user workflows.
 
 My recent projects have pushed me to think more deliberately about **context boundaries, evaluation, failure handling, and what should stay deterministic**. [More about me ↗](https://khushi-kundoor.vercel.app/) · [LinkedIn ↗](https://www.linkedin.com/in/khushi-kundoor)
 
