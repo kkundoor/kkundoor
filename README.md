@@ -1,15 +1,6 @@
 <!-- Profile landing page: editorial header artwork is stored in assets/profile-banner.svg -->
 
-<table width="100%">
-  <tr>
-    <td width="76%" valign="middle">
-      <img src="assets/profile-banner.svg" alt="Khushi Kundoor / GitHub — hi, I’m khushi — Software Engineer" width="100%" />
-    </td>
-    <td width="24%" valign="middle" align="center">
-      <img src="https://avatars.githubusercontent.com/u/145074521?v=4" alt="Khushi Kundoor" width="185" />
-    </td>
-  </tr>
-</table>
+<a href="https://khushi-kundoor.vercel.app/"><img src="assets/profile-banner.svg" alt="Khushi Kundoor — hi, I’m khushi — Software Engineer, with original portrait photograph" width="100%" /></a>
 
 <div align="center">
   <b><a href="#selected-work">selected work ↓</a> &nbsp; / &nbsp; <a href="#about">about ↓</a> &nbsp; / &nbsp; <a href="https://github.com/kkundoor?tab=repositories">all repositories ↗</a> &nbsp; / &nbsp; <a href="https://khushi-kundoor.vercel.app/">personal website ↗</a></b>
