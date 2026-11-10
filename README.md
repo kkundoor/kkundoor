@@ -28,7 +28,7 @@ Find the real places in screenshots and notes you saved.
 
 **[try the live demo ↗](https://place-memory-caxs.onrender.com)** &nbsp; · &nbsp; **[view source ↗](https://github.com/kkundoor/place-memory)**
 
-<a href="https://github.com/kkundoor/place-memory"><img src="https://raw.githubusercontent.com/kkundoor/place-memory/main/docs/screenshots/hosted-demo.jpg" alt="Place Memory resolving a saved location with supporting evidence" width="100%" /></a>
+<a href="https://github.com/kkundoor/place-memory"><img src="https://raw.githubusercontent.com/kkundoor/place-memory/main/docs/screenshots/homepage.png" alt="Place Memory resolving a saved location with supporting evidence" width="100%" /></a>
 
 **One lake, two names.** A screenshot said Stow Lake; the map said Blue Heron Lake. I added provider-backed historical names, filtered incompatible candidates, and kept the match explanation visible. The updated resolver identified the correct lake automatically.
 
