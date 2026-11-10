@@ -1,15 +1,12 @@
-<!-- Profile landing page · the full portfolio lives at khushi-kundoor.vercel.app -->
+<!-- Profile landing page: editorial header artwork is stored in assets/profile-banner.svg -->
 
-<table>
+<table width="100%">
   <tr>
-    <td width="75%" valign="middle">
-      <sub><b>K H U S H I &nbsp; K U N D O O R &nbsp; / &nbsp; G I T H U B</b></sub>
-      <h1>hi, I’m khushi</h1>
-      <b>SOFTWARE ENGINEER</b>
-      <p><sub>01 / SELECTED WORK</sub></p>
+    <td width="76%" valign="middle">
+      <img src="assets/profile-banner.svg" alt="Khushi Kundoor / GitHub — hi, I’m khushi — Software Engineer" width="100%" />
     </td>
-    <td width="25%" align="right" valign="middle">
-      <img src="https://avatars.githubusercontent.com/u/145074521?v=4" alt="Khushi Kundoor profile photo" width="180" />
+    <td width="24%" valign="middle" align="center">
+      <img src="https://avatars.githubusercontent.com/u/145074521?v=4" alt="Khushi Kundoor" width="185" />
     </td>
   </tr>
 </table>
