@@ -1,44 +1,61 @@
+<!-- Profile landing page · the full portfolio lives at khushi-kundoor.vercel.app -->
+
+<table>
+  <tr>
+    <td width="75%" valign="middle">
+      <sub><b>K H U S H I &nbsp; K U N D O O R &nbsp; / &nbsp; G I T H U B</b></sub>
+      <h1>hi, I’m khushi</h1>
+      <b>SOFTWARE ENGINEER</b>
+      <p><sub>01 / SELECTED WORK</sub></p>
+    </td>
+    <td width="25%" align="right" valign="middle">
+      <img src="https://avatars.githubusercontent.com/u/145074521?v=4" alt="Khushi Kundoor profile photo" width="180" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-
-# Khushi Kundoor
-
-**Computer Science · University of Michigan**
-
-I build practical software and AI-powered tools, especially where messy systems, data, and product decisions meet.
-
-**[Explore my website](https://khushi-kundoor.vercel.app/)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/khushi-kundoor) &nbsp;·&nbsp; [GitHub](https://github.com/kkundoor)
-
+  <b><a href="#selected-work">selected work ↓</a> &nbsp; / &nbsp; <a href="#about">about ↓</a> &nbsp; / &nbsp; <a href="https://github.com/kkundoor?tab=repositories">all repositories ↗</a> &nbsp; / &nbsp; <a href="https://khushi-kundoor.vercel.app/">personal website ↗</a></b>
 </div>
 
 ---
 
-### A little about me
+## selected work
 
-I'm a Computer Science graduate from the University of Michigan. I've worked on software engineering and automation projects at **Amazon** and **Intel**, from investigating complex operational workflows to building tools that make information easier to use.
+<sub><b>01 / FEATURED PROJECT</b></sub>
 
-I enjoy working across the problem: figuring out what matters, making technical tradeoffs, and building something people can actually use.
+### Place Memory
 
-### Selected work
+Find the real places in screenshots and notes you saved.
 
-| Project | What I built |
-| --- | --- |
-| **[Place Memory](https://github.com/kkundoor/place-memory)** | A full-stack application for organizing and resolving places from imperfect information, using **React, FastAPI, and Gemini**. [See the project →](https://github.com/kkundoor/place-memory) |
-| **eGym** | An inclusive fitness prototype with personalized workout routines, accessible interaction flows, and progress tracking. **React Native / Expo**. [Explore on my website →](https://khushi-kundoor.vercel.app/) |
+**[try the live demo ↗](https://place-memory-caxs.onrender.com)** &nbsp; · &nbsp; **[view the source ↗](https://github.com/kkundoor/place-memory)**
 
-### Experience
+<a href="https://github.com/kkundoor/place-memory"><img src="https://raw.githubusercontent.com/kkundoor/place-memory/main/docs/screenshots/hosted-demo.jpg" alt="Place Memory demo showing a saved place and its resolved location" width="100%" /></a>
 
-- **Amazon — Software Development Engineer Intern:** Built an AI-assisted investigation workflow to reduce manual analysis of complex operational data.
-- **Intel — Software Engineering Intern:** Worked on software, computer vision, and automation tools.
+**One lake, two names**
 
-### Tools I work with
+A screenshot said Stow Lake. The map said Blue Heron Lake. I added provider-backed aliases and filtered out incompatible candidates. On the rerun, Place Memory identified the lake automatically and showed the alias behind the match.
 
-`Python` · `TypeScript / JavaScript` · `C / C++` · `Java` · `SQL` · `React` · `FastAPI` · `AWS` · `Git`
+**How I built it** &nbsp; [architecture ↗](https://github.com/kkundoor/place-memory/blob/main/docs/architecture.md) &nbsp; · &nbsp; [before-and-after field test ↗](https://github.com/kkundoor/place-memory/blob/main/docs/field-test-2026-09-17.md) &nbsp; · &nbsp; [evaluations ↗](https://github.com/kkundoor/place-memory#evaluations)
+
+<sub><b>REACT · TYPESCRIPT · FASTAPI · PYTHON</b></sub>
 
 ---
 
+## about
+
+I’m Khushi, a software engineer who studied computer science at the University of Michigan. I like building tools that make it easier to find what you’re looking for and understand how you got there.
+
+I’ve worked on software and AI-related projects at **Amazon** and **Intel**. I’m drawn to problems where figuring out what to build matters as much as building it.
+
+**[more about me and my work ↗](https://khushi-kundoor.vercel.app/)** &nbsp; · &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/khushi-kundoor)**
+
+---
+
+<sub>02 / MORE WORK</sub>
+
+**eGym** — An inclusive fitness prototype that adapts exercise routines to individual mobility, goals, and equipment. Built with React Native and Expo. [Explore more ↗](https://khushi-kundoor.vercel.app/)
+
 <div align="center">
-
-**More about my experience, projects, and approach:**  
-### [khushi-kundoor.vercel.app](https://khushi-kundoor.vercel.app/)
-
+  <sub>MADE BY KHUSHI · <a href="https://khushi-kundoor.vercel.app/">KHUSHI-KUNDOOR.VERCEL.APP</a></sub>
 </div>
