@@ -46,6 +46,8 @@ Find the real places in screenshots and notes you saved.
 
 A reproducible analysis of clinical-trial cell counts, from validated CSV data to cohort comparisons and an interactive dashboard.
 
+<a href="https://github.com/kkundoor/immune-cell-analysis-dashboard"><img src="https://raw.githubusercontent.com/kkundoor/immune-cell-analysis-dashboard/main/demo.png" alt="Dashboard demo first page populated" width="100%" /></a>
+
 **Engineering:** Normalizes subjects, samples, and cell counts into SQLite; calculates population frequencies with SQL; aggregates repeated samples at the subject level; compares response groups using Mann–Whitney U tests with Benjamini–Hochberg correction.
 
 <sub>PYTHON · SQLITE/SQL · SCIPY · PANDAS · STREAMLIT · PLOTLY · UNITTEST</sub>
