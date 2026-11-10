@@ -1,6 +1,6 @@
 <!-- Portfolio source of truth: https://khushi-kundoor.vercel.app/ -->
 
-<a href="https://khushi-kundoor.vercel.app/"><img src="assets/KhushiGitPortfolioBanner.png" alt="Khushi Kundoor — hi, I'm Khushi — Software Engineer" width="100%" /></a>
+<a href="https://khushi-kundoor.vercel.app/"><img src="assets/bannerGithub.png" alt="Khushi Kundoor — hi, I'm Khushi — Software Engineer" width="100%" /></a>
 
 <div align="center">
   <b><a href="#about">about ↓</a> &nbsp; / &nbsp; <a href="#work-experience">work experience ↓</a> &nbsp; / &nbsp; <a href="#projects">projects ↓</a> &nbsp; / &nbsp; <a href="https://khushi-kundoor.vercel.app/">website ↗</a> &nbsp; / &nbsp; <a href="https://github.com/kkundoor?tab=repositories">repositories ↗</a></b>
