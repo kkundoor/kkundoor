@@ -1,6 +1,6 @@
 <!-- Editorial profile landing page · banner and portrait are embedded in assets/profile-banner.svg -->
 
-<a href="https://khushi-kundoor.vercel.app/"><img src="assets/profile-banner.svg" alt="Khushi Kundoor — hi, I’m khushi — Software Engineer" width="100%" /></a>
+<a href="https://khushi-kundoor.vercel.app/"><img src="assets/bannerGithub.png" alt="Khushi Kundoor — hi, I’m khushi — Software Engineer" width="100%" /></a>
 
 <div align="center">
   <b><a href="#about">about ↓</a> &nbsp; / &nbsp; <a href="#selected-work">selected work ↓</a> &nbsp; / &nbsp; <a href="https://github.com/kkundoor?tab=repositories">all repositories ↗</a> &nbsp; / &nbsp; <a href="https://khushi-kundoor.vercel.app/">personal website ↗</a></b>
