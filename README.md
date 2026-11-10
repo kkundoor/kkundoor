@@ -51,7 +51,11 @@ I’ve worked on software and AI-related projects at **Amazon** and **Intel**. I
 
 <sub>02 / MORE WORK</sub>
 
-**eGym** — An inclusive fitness prototype that adapts exercise routines to individual mobility, goals, and equipment. Built with React Native and Expo. [Explore more ↗](https://khushi-kundoor.vercel.app/)
+### eGym
+
+An accessible workout app that generates routines based on mobility, fitness goals, time, and available equipment.
+
+**React Native · Expo** &nbsp; · &nbsp; [view on my website ↗](https://khushi-kundoor.vercel.app/)
 
 <div align="center">
   <sub>MADE BY KHUSHI · <a href="https://khushi-kundoor.vercel.app/">KHUSHI-KUNDOOR.VERCEL.APP</a></sub>
