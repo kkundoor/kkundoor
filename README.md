@@ -16,7 +16,7 @@ My recent projects have pushed me to think more deliberately about **context bou
 
 ---
 
-## work experience
+## Work Experience
 
 <sub><b>01 / LLM TOOL INTEGRATION · MCP · CONTEXT-EFFICIENT DATA RETRIEVAL</b></sub>
 
@@ -49,7 +49,7 @@ Worked on distinct internal engineering projects spanning:
 
 ---
 
-## projects
+## Projects
 
 <sub><b>01 / FULL-STACK CLOUD-DEPLOYED APP · MULTIMODAL EXTRACTION + DETERMINISTIC PLACE RESOLUTION</b></sub>
 
@@ -61,7 +61,7 @@ Find the real places in screenshots and notes you saved.
 
 <a href="https://github.com/kkundoor/place-memory"><img src="https://raw.githubusercontent.com/kkundoor/place-memory/main/docs/screenshots/homepage.png" alt="Place Memory demo" width="100%" /></a>
 
-**System design:** React/TypeScript UI → FastAPI endpoints → Gemini clue extraction → Photon/OSM candidate search with Nominatim fallback → explicit ranking and confidence gates → SQLite memory storage in local mode. The public Render demo is read-only.
+**System design:** React/TypeScript UI → FastAPI endpoints → Gemini clue extraction → Photon/OSM candidate search with Nominatim fallback → explicit ranking and confidence gates → SQLite memory storage in local mode. The public Render demo runs the pipeline without saving visitor inputs or results.
 
 **Context and trust:** The model extracts names, locations, and clues, but does **not** decide canonical identity. Provider results are normalized, filtered by category, deduplicated, scored against evidence, and routed to **resolve / human review / abstain**. Candidate provenance and score components stay inspectable.
 
@@ -83,7 +83,7 @@ A reproducible CSV → SQLite → analytics → Streamlit workflow for comparing
 
 <sub>PYTHON · SQLITE/SQL · SCIPY · PANDAS · STREAMLIT · PLOTLY · UNITTEST</sub>
 
-**[dashboard ↗](https://teiko-immune-cell-dashboard.streamlit.app)** · **[source + methodology ↗](https://github.com/kkundoor/teiko-technical)**
+**[dashboard ↗](https://teiko-immune-cell-dashboard.streamlit.app)** · **[source + methodology ↗](https://github.com/kkundoor/immune-cell-analysis-dashboard)**
 
 ---
 
@@ -95,7 +95,9 @@ An Expo/React Native prototype that selects workout routines from mobility, goal
 
 <sub>REACT NATIVE · EXPO · JAVASCRIPT · ASYNCSTORAGE</sub>
 
-[view on website ↗](https://khushi-kundoor.vercel.app/)
+The prototype uses mock sign-in. The source repository is private.
+
+[read the case study ↗](https://khushi-kundoor.vercel.app/#egym)
 
 ---
 
